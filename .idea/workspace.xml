@@ -2,53 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1fa622a4-04f9-4366-a7dd-a3c835143018" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DEPLOYING" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/download/rubykoans.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/keynote/RubyKoans.key" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rakelib/checks.rake" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rakelib/run.rake" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/GREED_RULES.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Rakefile" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/about_array_assignment.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/about_arrays.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/about_asserts.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/about_blocks.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/about_class_methods.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/about_classes.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/about_constants.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/about_control_statements.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/about_dice_project.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/about_exceptions.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/about_extra_credit.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/about_hashes.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/about_inheritance.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/about_iteration.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/about_java_interop.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/about_keyword_arguments.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/about_message_passing.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/about_methods.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/about_modules.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/about_nil.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/about_objects.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/about_open_classes.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/about_proxy_object_project.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/about_regular_expressions.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/about_sandwich_code.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/about_scope.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/about_scoring_project.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/about_strings.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/about_symbols.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/about_to_str.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/about_triangle_project.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/about_triangle_project_2.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/about_true_and_false.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/example_file.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/koans.watchr" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/neo.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/path_to_enlightenment.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/triangle.rb" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -60,7 +15,8 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/nathan_koans@about_array_assignment.coverage" NAME="about_array_assignment Coverage Results" MODIFIED="1501964788179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" MODULE_NAME="nathan_koans" />
     <SUITE FILE_PATH="coverage/nathan_koans@path_to_enlightenment.coverage" NAME="path_to_enlightenment Coverage Results" MODIFIED="1501964935011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" MODULE_NAME="nathan_koans" />
-    <SUITE FILE_PATH="coverage/nathan_koans@path_to_enlightenment__1_.coverage" NAME="path_to_enlightenment (1) Coverage Results" MODIFIED="1501965108212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/koans" MODULE_NAME="nathan_koans" />
+    <SUITE FILE_PATH="coverage/nathan_koans@path_to_enlightenment__1_.coverage" NAME="path_to_enlightenment (1) Coverage Results" MODIFIED="1501968693132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/koans" MODULE_NAME="nathan_koans" />
+    <SUITE FILE_PATH="coverage/nathan_koans@about_asserts.coverage" NAME="about_asserts Coverage Results" MODIFIED="1501968720640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/koans" MODULE_NAME="nathan_koans" />
   </component>
   <component name="FileEditorManager">
     <leaf>
@@ -84,11 +40,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="119">
+              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -97,18 +53,18 @@
       <file leaf-file-name="path_to_enlightenment.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/koans/path_to_enlightenment.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+            <state relative-caret-position="68">
+              <caret line="4" column="14" lean-forward="true" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="about_asserts.rb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="about_asserts.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/koans/about_asserts.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="9" column="16" lean-forward="false" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+            <state relative-caret-position="136">
+              <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -133,6 +89,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/koans/about_asserts.rb" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -198,7 +155,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Ruby.path_to_enlightenment (1)">
+  <component name="RunManager" selected="Ruby.about_asserts">
     <configuration name="about_array_assignment" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="nathan_koans" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
@@ -211,6 +168,20 @@
       <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
       <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/src/about_array_assignment.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+    </configuration>
+    <configuration name="about_asserts" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="nathan_koans" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/koans" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/koans/about_asserts.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
     </configuration>
     <configuration name="path_to_enlightenment (1)" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
@@ -241,16 +212,18 @@
       <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/src/path_to_enlightenment.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
     </configuration>
-    <list size="3">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Ruby.path_to_enlightenment" />
       <item index="1" class="java.lang.String" itemvalue="Ruby.about_array_assignment" />
       <item index="2" class="java.lang.String" itemvalue="Ruby.path_to_enlightenment (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Ruby.about_asserts" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Ruby.path_to_enlightenment (1)" />
-        <item index="1" class="java.lang.String" itemvalue="Ruby.path_to_enlightenment" />
-        <item index="2" class="java.lang.String" itemvalue="Ruby.about_array_assignment" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Ruby.about_asserts" />
+        <item index="1" class="java.lang.String" itemvalue="Ruby.path_to_enlightenment (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Ruby.path_to_enlightenment" />
+        <item index="3" class="java.lang.String" itemvalue="Ruby.about_array_assignment" />
       </list>
     </recent_temporary>
   </component>
@@ -265,12 +238,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1501964750378</updated>
-      <workItem from="1501964751520" duration="1347000" />
+      <workItem from="1501964751520" duration="2336000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1347000" />
+    <option name="totallyTimeSpent" value="2336000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1273" y="0" width="1294" height="1047" extended-state="0" />
@@ -281,7 +254,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32943678" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33793837" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -330,14 +303,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/koans/path_to_enlightenment.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/koans/.path_progress">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -378,18 +343,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/koans/path_to_enlightenment.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="68">
+          <caret line="4" column="14" lean-forward="true" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/koans/about_asserts.rb">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="9" column="16" lean-forward="false" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>
